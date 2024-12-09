@@ -12,7 +12,7 @@ function App() {
       <br/>
       <input type='submit'/>
     </form>
-    <h1>create new</h1>
+    
 
     </>
   );
