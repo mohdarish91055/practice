@@ -12,7 +12,6 @@ function App() {
       <br/>
       <input type='submit'/>
     </form>
-    
 
     </>
   );
